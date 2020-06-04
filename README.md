@@ -20,7 +20,7 @@ question you would have 😃.
 
 ## Community Meeting
 
-Join the [**biweekly meeting**] with Parsec maintainers and community members.
+Join the **biweekly meeting** with Parsec maintainers and community members.
 The meeting is open to the public and everyone is encouraged to attend. We will
 use the time to discuss features, integrations, issues, and roadmap. We look
 forward to seeing you all.
@@ -32,4 +32,4 @@ can for example link specific GitHub issues if you would like to discuss them.
 * [Agenda of next meeting](https://hackmd.io/@hug-dev/parsec/edit)
 * [Zoom link](https://armltd.zoom.us/j/97560348881?pwd=LzcycTNySTRERDlWMk1hRG1ianNDUT09)
 * [Calendar of upcoming meetings](https://calendar.google.com/calendar/embed?src=ott19qaf3t5id8o5jq8ulih1ac%40group.calendar.google.com&ctz=Europe%2FLondon)
-* [Minutes of previous meetings](https://github.com/parallaxsecond/community/minutes)
+* [Minutes of previous meetings](https://github.com/parallaxsecond/community/tree/master/minutes)
