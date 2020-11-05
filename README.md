@@ -30,4 +30,9 @@ you would like to discuss them.
    meetings](https://calendar.google.com/calendar/embed?src=ott19qaf3t5id8o5jq8ulih1ac%40group.calendar.google.com&ctz=Europe%2FLondon)
 - [Minutes of previous meetings](https://github.com/parallaxsecond/community/tree/master/minutes)
 
+## Presentations
+
+Check the [Parsec Presentations](presentations.md) for a list of all public Parsec-related
+presentations.
+
 *Copyright 2020 Contributors to the Parsec project.*
