@@ -27,7 +27,7 @@ you would like to discuss them.
 - [Agenda of next meeting](https://hackmd.io/@hug-dev/parsec/edit)
 - [Zoom link](https://armltd.zoom.us/j/97560348881?pwd=LzcycTNySTRERDlWMk1hRG1ianNDUT09)
 - [Calendar of upcoming
-   meetings](https://calendar.google.com/calendar/embed?src=ott19qaf3t5id8o5jq8ulih1ac%40group.calendar.google.com&ctz=Europe%2FLondon)
+   meetings](https://calendar.google.com/calendar/embed?src=ott19qaf3t5id8o5jq8ulih1ac%40group.calendar.google.com)
 - [Minutes of previous meetings](https://github.com/parallaxsecond/community/tree/master/minutes)
 
 ## Presentations
