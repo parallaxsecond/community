@@ -17,18 +17,6 @@
 - The section on previous releases does not include any that were made before there was a defined
    process and cadence for Parsec releases.
 
-# Previous Releases
-
-## 0.8.1 (September 2021)
-
-- Full [release page](https://github.com/parallaxsecond/parsec/releases/tag/0.8.1).
-- Support for [SPIFFE](https://spiffe.io)-based authentication to API operations. (Note: Rust client
-   library only).
-- Support for ECC keys in PKCS#11 devices.
-- Support for secure elements using [CryptoAuthLib](https://github.com/MicrochipTech/cryptoauthlib).
-- Fixes persistence of keys across reboot in TPM devices.
-- TPM provider can be enabled/disabled dynamically based on detection of a TPM device.
-
 # Future Releases
 
 ## 1.0 (March 2022)
@@ -36,16 +24,16 @@
 This release is being prepared. You can track the status
 [here](https://github.com/parallaxsecond/parsec/milestone/3).
 
-- New stable version of [TSS-ESAPI Rust library](https://github.com/parallaxsecond/rust-tss-esapi).
 - Supports storage of key metadata using [SQLite](https://www.sqlite.org/index.html).
 - New [`CanDoCrypto`
    API](https://parallaxsecond.github.io/parsec-book/parsec_client/operations/can_do_crypto.html)
    for runtime queries of cryptographic capabilities. This API is currently experimental and subject
    to change.
-- New APIs in support of key attestation flows. These APIs are currently experimental and subject to
-   change. Currently supported for TPM platforms only.
-- Java client library available, including integration with the Java Cryptography Architecture
-   (JCA).
+- New [APIs](https://parallaxsecond.github.io/parsec-book/parsec_client/operations/attest_key.html)
+   in support of key attestation flows. These APIs are currently experimental and subject to change.
+   Currently supported for TPM platforms only.
+- [Java client library](https://github.com/parallaxsecond/parsec-client-java) introduced, including
+   integration with the Java Cryptography Architecture (JCA).
 - Parsec CLI tool supports the creation of Certificate Signing Requests (CSRs).
 - Integrates with [Trusted Services](https://www.trustedfirmware.org/projects/trusted-services/)
    from [trustedfirmware.org](https://www.trustedfirmware.org) on platforms where these services are
@@ -58,5 +46,17 @@ This release is being prepared. You can track the status
 ## Future Items (Not Assigned To Releases)
 
 - Under construction!
+
+# Previous Releases
+
+## 0.8.1 (September 2021)
+
+- Full [release page](https://github.com/parallaxsecond/parsec/releases/tag/0.8.1).
+- Support for [SPIFFE](https://spiffe.io)-based authentication to API operations. (Note: Rust client
+   library only).
+- Support for ECC keys in PKCS#11 devices.
+- Support for secure elements using [CryptoAuthLib](https://github.com/MicrochipTech/cryptoauthlib).
+- Fixes persistence of keys across reboot in TPM devices.
+- TPM provider can be enabled/disabled dynamically based on detection of a TPM device.
 
 *Copyright 2022 Contributors to the Parsec project.*
