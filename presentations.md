@@ -17,5 +17,15 @@ These presentations give an overview of what Parsec is.
 | 2021-05-03 | [Cloud Native Rust Day](https://youtu.be/49cXCDLALYY)                                        |
 | 2021-05-04 | [KubeCon 2021](https://youtu.be/G-MvFqkVJTI)                                                 |
 | 2021-06-11 | [Confidential Computing Developer Summit](https://youtu.be/mmTpzRVeSoQ)                      |
+| 2022-03-14 | [Open Security Mini-Summit](https://www.youtube.com/watch?v=JNaMTZI5Fp8)                     |
+
+## Deep Dives
+
+More detailed resources and technical tutorials.
+
+| Date       | Name                                                                                                          |
+|------------|---------------------------------------------------------------------------------------------------------------|
+| 2021-03-22 | [Raspberry Pi Demo Tutorial Series](https://www.youtube.com/playlist?list=PLKjl7IFAwc4S7WQqqphCsyy6DPDxJ2Skg) |
+
 
 *Copyright 2020 Contributors to the Parsec project.*
