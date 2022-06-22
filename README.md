@@ -24,6 +24,10 @@ If you would like to discuss specific items during the meeting, please feel free
 [agenda](https://hackmd.io/@hug-dev/parsec/edit). You can for example link specific GitHub issues if
 you would like to discuss them.
 
+We will be polling the Slack channel for topics before each meeting if no items exist on the agenda,
+and some meetings will be cancelled as a result. Thus, be sure to track the Slack channel if you're
+interested in joining us!
+
 - [Agenda of next meeting](https://hackmd.io/@hug-dev/parsec/edit)
 - [Zoom link](https://armltd.zoom.us/j/97560348881?pwd=LzcycTNySTRERDlWMk1hRG1ianNDUT09)
 - [Calendar of upcoming
