@@ -15,15 +15,30 @@
    available
    [here](https://parallaxsecond.github.io/parsec-book/parsec_client/operations/service_api_coverage.html).
 - The section on previous releases does not include any that were made before there was a defined
-   process and cadence for Parsec releases.
+   process and cadence for Parsec releases. Full information about previous Parsec releases can be
+   found on the [releases page](https://github.com/parallaxsecond/parsec/releases).
 
 # Future Releases
 
+## 1.2 (March 2023)
+
+- This release is currently being scoped.
+
+## Future Items (Not Assigned To Releases)
+
+- Under construction!
+
+# Previous Releases
+
+## 1.1 (September 2022)
+
+- Full [release page](https://github.com/parallaxsecond/parsec/releases/tag/1.1.0).
+- Random number generation supported in TPM and PKCS#11 providers.
+- General fixes and improvements.
+
 ## 1.0 (March 2022)
 
-This release is being prepared. You can track the status
-[here](https://github.com/parallaxsecond/parsec/milestone/3).
-
+- Full [release page](https://github.com/parallaxsecond/parsec/releases/tag/1.0.0).
 - Supports storage of key metadata using [SQLite](https://www.sqlite.org/index.html).
 - New [`CanDoCrypto`
    API](https://parallaxsecond.github.io/parsec-book/parsec_client/operations/can_do_crypto.html)
@@ -38,16 +53,6 @@ This release is being prepared. You can track the status
 - Integrates with [Trusted Services](https://www.trustedfirmware.org/projects/trusted-services/)
    from [trustedfirmware.org](https://www.trustedfirmware.org) on platforms where these services are
    available and functioning.
-
-## 1.x (September 2022)
-
-- Version number and content being defined.
-
-## Future Items (Not Assigned To Releases)
-
-- Under construction!
-
-# Previous Releases
 
 ## 0.8.1 (September 2021)
 
