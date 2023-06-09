@@ -20,7 +20,7 @@
 
 # Future Releases
 
-## 1.2 (March 2023)
+## 1.3 (September 2023)
 
 - This release is currently being scoped.
 
@@ -29,6 +29,15 @@
 - Under construction!
 
 # Previous Releases
+
+## 1.2 (March 2023)
+
+- Full [release page](https://github.com/parallaxsecond/parsec/releases/tag/1.2.0).
+- Support for Debian packaging.
+- Docker quick start package.
+- Fixes for security reports.
+- MSRV update.
+- Minor improvements.
 
 ## 1.1 (September 2022)
 
