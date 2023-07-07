@@ -16,7 +16,7 @@ We are on the `#parsec` channel in the CNCF Slack Workspace.
 
 ## Community Meeting
 
-Join the **weekly meeting** with Parsec maintainers and community members. The meeting is open to
+Join the **bi-weekly meeting** with Parsec maintainers and community members. The meeting is open to
 the public and everyone is encouraged to attend. We will use the time to discuss features,
 integrations, issues, and roadmap. We look forward to seeing you all.
 
