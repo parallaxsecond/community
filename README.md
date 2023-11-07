@@ -29,7 +29,7 @@ and some meetings will be cancelled as a result. Thus, be sure to track the Slac
 interested in joining us!
 
 - [Agenda of next meeting](https://hackmd.io/@hug-dev/parsec/edit)
-- [Zoom link](https://armltd.zoom.us/j/97560348881?pwd=LzcycTNySTRERDlWMk1hRG1ianNDUT09)
+- [Zoom link](https://armltd.zoom.us/j/99308924320?pwd=ZjJ3c3o5akdCbnBtWDVaTFhiOG9NUT09)
 - [Calendar of upcoming
    meetings](https://calendar.google.com/calendar/embed?src=ott19qaf3t5id8o5jq8ulih1ac%40group.calendar.google.com)
 - [Minutes of previous meetings](https://github.com/parallaxsecond/community/tree/master/minutes)
