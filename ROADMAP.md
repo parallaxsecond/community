@@ -18,15 +18,15 @@
    process and cadence for Parsec releases. Full information about previous Parsec releases can be
    found on the [releases page](https://github.com/parallaxsecond/parsec/releases).
 
+# Future Items (Not Assigned To Releases)
+- Auto discovery of Parsec provider
+- Parsec OpenSSL backend
+
 # Future Releases
 
 ## 1.3 (September 2023)
 
-- This release is currently being scoped.
-
-## Future Items (Not Assigned To Releases)
-
-- Under construction!
+- Adding missing crypto operations for Trusted Services provider
 
 # Previous Releases
 
@@ -47,6 +47,9 @@
 
 ## 1.0 (March 2022)
 
+<details>
+<summary> Release details </summary>
+
 - Full [release page](https://github.com/parallaxsecond/parsec/releases/tag/1.0.0).
 - Supports storage of key metadata using [SQLite](https://www.sqlite.org/index.html).
 - New [`CanDoCrypto`
@@ -63,7 +66,12 @@
    from [trustedfirmware.org](https://www.trustedfirmware.org) on platforms where these services are
    available and functioning.
 
+</details>
+
 ## 0.8.1 (September 2021)
+
+<details>
+<summary> Release details </summary>
 
 - Full [release page](https://github.com/parallaxsecond/parsec/releases/tag/0.8.1).
 - Support for [SPIFFE](https://spiffe.io)-based authentication to API operations. (Note: Rust client
@@ -72,5 +80,7 @@
 - Support for secure elements using [CryptoAuthLib](https://github.com/MicrochipTech/cryptoauthlib).
 - Fixes persistence of keys across reboot in TPM devices.
 - TPM provider can be enabled/disabled dynamically based on detection of a TPM device.
+
+</details>
 
 *Copyright 2022 Contributors to the Parsec project.*
