@@ -19,4 +19,9 @@ We are on the `#parsec` channel in the CNCF Slack Workspace.
 Check the [Parsec Presentations](presentations.md) for a list of all public Parsec-related
 presentations.
 
+## Security Vulnerabilities Reporting
+
+Check [Parsec's Security policy](https://github.com/parallaxsecond/parsec/security/policy) for reporting of security
+vulnerabilities.
+
 *Copyright 2020 Contributors to the Parsec project.*
